@@ -1,6 +1,9 @@
+
+/*for the background on all pages*/
 body{
     background: -webkit-linear-gradient(left, #eaedf1, #00c6ff);
 }
+/* for Contact form on contact me page */
 .contact-form{
     background: #fff;
     margin-top: 10%;
