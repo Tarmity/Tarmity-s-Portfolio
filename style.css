@@ -1,8 +1,31 @@
 
 /*for the background on all pages*/
-body{
-    background: -webkit-linear-gradient(left, #eaedf1, #00c6ff);
+.background {
+    background-image: url(images/spaceBack.jpg);
 }
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 250px;
+  }
+
+  .btn {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: #c8c4bd;
+   color: black;
+   cursor: pointer;
+   padding: 16px 32px;  
+   border: #8fe3d9;
+   font-weight: bold;
+   border-radius: 25px;
+   
+   
+ }
 /* for Contact form on contact me page */
 .contact-form{
     background: #fff;
@@ -56,4 +79,8 @@ body{
 }
 h1 { 
     columns: #333333;;
+}
+
+.pageBackground {
+    background-color: rgb(238, 253, 252);
 }
