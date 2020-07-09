@@ -29,7 +29,7 @@
 /* for Contact form on contact me page */
 .contact-form{
     background: #fff;
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 5%;
     width: 70%;
 }
@@ -56,16 +56,19 @@
     margin-top: -10%;
     text-align: center;
     color: #0062cc;
+    font-size: 50px;
 }
 .contact-form .btnContact {
     width: 50%;
     border: none;
     border-radius: 1rem;
     padding: 1.5%;
-    background: #dc3545;
+    background: #0b15a7;
     font-weight: 600;
     color: #fff;
     cursor: pointer;
+    margin-left: 300px;
+    margin-top: 20px;
 }
 .btnContactSubmit
 {
