@@ -31,4 +31,5 @@ Once you are on the home page click the button to view my work, this will bring 
 ## Credits
 
 Thank you to Bootstrap: <https://getbootstrap.com/>
+Thank you to canva: https://canva.com
 
