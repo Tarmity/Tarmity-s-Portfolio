@@ -1,4 +1,5 @@
 # Tarmity Portfolio
+![License](https://img.shields.io/github/license/tarmity/Tarmity-s-Portfolio)
 
 ## Description 
 
@@ -16,6 +17,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [License](#License)
 * [Credits](#credits)
 
 ## Installation
@@ -28,6 +30,10 @@ There are no installation guide as it is a woking web page that you go too. http
 To acess my portfolio simply open the link (https://tarmity.github.io/Tarmity-s-Portfolio/) will bring you to the home page pictured above.
 Once you are on the home page click the button to view my work, this will bring you to my portfolio. you will also notice that there is a Nav bar at the top with links to my resume, about me and a contact page. 
 
+ ## License
+  * MIT
+  
+ 
 ## Credits
 
 Thank you to Bootstrap: <https://getbootstrap.com/>
